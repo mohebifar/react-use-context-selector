@@ -1,9 +1,9 @@
 {
   "name": "react-use-context-selector",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Context selector hook for react",
   "main": "build/main/index.js",
-  "typings": "build/main/index.d.ts",
+  "typings": "build/module/index.d.ts",
   "module": "build/module/index.js",
   "repository": "https://github.com/mohebifar/react-use-context-selector",
   "license": "MIT",
